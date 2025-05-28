@@ -88,7 +88,7 @@ npm run dev
 
 ## Authors
 
-- **Brian McLaren**
+- **Harika Reddy**
 
 ## License
 

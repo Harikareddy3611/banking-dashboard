@@ -60,7 +60,7 @@ local machine for development and testing purposes.
 
 Clone or download the project files from my repository
 
-git clone https://github.com/BrianQMclaren/Bank-Dashboard-App
+git clone https://github.com/Harikareddy3611/banking-dashboard.git
 
 #### Run this cmd your terminal to get all of the packages for client and server
 
